@@ -1,2 +1,1 @@
-<h1
-AntiGolpe BC </h1>
+<h1>AntiGolpe BC</h1>
