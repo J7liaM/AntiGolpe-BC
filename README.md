@@ -1,8 +1,4 @@
-Aqui está a **documentação do seu projeto acadêmico "AntiGolpe BC"**, desenvolvido em parceria com o Bradesco, com foco na prevenção de golpes que envolvem o nome do Banco Central:
-
----
-
-## 📘 **Documentação Técnica do Projeto AntiGolpe BC**
+## 📘 **Projeto AntiGolpe BC**
 
 ### 🏛️ Contexto do Projeto
 
