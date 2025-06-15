@@ -19,10 +19,10 @@ Criar um sistema funcional e intuitivo que:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem**: Java (com padrão MVC e orientação a objetos)
+* **Linguagem**: Java 
 * **GUI**: Swing (interfaces gráficas)
 * **Banco de dados**: MySQL
-* **Padrões de projeto**: MVC, Herança, Polimorfismo
+* **Estrutura de projeto**: MVC
 
 ---
 
@@ -118,7 +118,3 @@ A proposta acadêmica contribui para o debate sobre segurança digital e respons
   * [https://www.bcb.gov.br/meubc/faqs/s/golpes](https://www.bcb.gov.br/meubc/faqs/s/golpes)
   * [https://www.bcb.gov.br/meubc/faqs/p/o-que-fazer-em-caso-de-golpe-fraude-ou-um-crime](https://www.bcb.gov.br/meubc/faqs/p/o-que-fazer-em-caso-de-golpe-fraude-ou-um-crime)
   * [https://www.bcb.gov.br/meubc/faqs/p/golpes-envolvendo-o-nome-do-banco-central](https://www.bcb.gov.br/meubc/faqs/p/golpes-envolvendo-o-nome-do-banco-central)
-
----
-
-Se quiser, posso gerar esse conteúdo em formato `.docx`, `.pdf` ou `.txt` para entrega acadêmica. Deseja?
